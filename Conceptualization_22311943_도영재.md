@@ -77,7 +77,7 @@ graph TD
     style Data fill:#FFF3E0,stroke:#FB8C00,stroke-width:2px,color:#000
     style KTrip fill:#F5F5F5,stroke:#616161,stroke-width:2px,color:#000
 ```
-
+---
 
 # 3. Use Case List (주요 기능 목록)
 
